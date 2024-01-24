@@ -67,6 +67,16 @@ nav {
 
 
 
+.top {
+    width: 80px;
+    height: 80px;
+
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+
 
 
 .about {
